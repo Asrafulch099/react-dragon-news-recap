@@ -30,7 +30,7 @@ const RightSideNav = () => {
                 </a>
                 <a className='p-4 flex text-lg items-center border rounded-b-lg' href="">
                     <FaInstagram className='mr-2'></FaInstagram>
-                    <span>Facebook</span>
+                    <span>Instagram</span>
                 </a>
             </div>
             {/* q zone */}
